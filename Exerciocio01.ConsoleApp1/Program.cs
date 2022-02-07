@@ -6,7 +6,7 @@ namespace Exerciocio01.ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Worl!");
         }
     }
 }
